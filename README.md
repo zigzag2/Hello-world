@@ -1,2 +1,2 @@
 # Hello-world
-New coding Ideas
+New coding Ideas. This is my first commit.
